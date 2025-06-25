@@ -16,7 +16,7 @@ with st.sidebar:
 📍 **Lima, Perú**  
 📧 [huamanmaitarodrigoalonso@gmail.com](mailto:huamanmaitarodrigoalonso@gmail.com)  
 📱 +51 960 678 127    
-💻 [GitHub](https://github.com/rodrigo)  
+💻 [GitHub](https://github.com/rdrigoah)  
 📸 [Instagram](https://instagram.com/rdrigo_ah)
     """)
     st.markdown("---")
